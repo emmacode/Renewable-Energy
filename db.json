@@ -1,0 +1,249 @@
+{
+ "windFarmData": [
+  {
+    "Timestamp": "2023-01-01T00:00:00",
+    "WindSpeed": 9.5,
+    "PowerOutput": 450
+  },
+  {
+    "Timestamp": "2023-01-01T01:00:00",
+    "WindSpeed": 8.2,
+    "PowerOutput": 320
+  },
+  {
+    "Timestamp": "2023-01-01T02:00:00",
+    "WindSpeed": 10.1,
+    "PowerOutput": 520
+  },
+  {
+    "Timestamp": "2023-01-01T03:00:00",
+    "WindSpeed": 7.8,
+    "PowerOutput": 280
+  },
+  {
+    "Timestamp": "2023-01-01T04:00:00",
+    "WindSpeed": 11.3,
+    "PowerOutput": 600
+  },
+  {
+    "Timestamp": "2023-01-01T05:00:00",
+    "WindSpeed": 9.9,
+    "PowerOutput": 480
+  },
+  {
+    "Timestamp": "2023-01-01T06:00:00",
+    "WindSpeed": 6.5,
+    "PowerOutput": 200
+  },
+  {
+    "Timestamp": "2023-01-01T07:00:00",
+    "WindSpeed": 5.8,
+    "PowerOutput": 180
+  },
+  {
+    "Timestamp": "2023-01-01T08:00:00",
+    "WindSpeed": 12.0,
+    "PowerOutput": 700
+  },
+  {
+    "Timestamp": "2023-01-01T09:00:00",
+    "WindSpeed": 8.7,
+    "PowerOutput": 400
+  },
+  {
+    "Timestamp": "2023-01-01T10:00:00",
+    "WindSpeed": 9.2,
+    "PowerOutput": 420
+  },
+  {
+    "Timestamp": "2023-01-01T11:00:00",
+    "WindSpeed": 10.5,
+    "PowerOutput": 550
+  },
+  {
+    "Timestamp": "2023-01-01T12:00:00",
+    "WindSpeed": 11.8,
+    "PowerOutput": 620
+  },
+  {
+    "Timestamp": "2023-01-01T13:00:00",
+    "WindSpeed": 8.1,
+    "PowerOutput": 310
+  },
+  {
+    "Timestamp": "2023-01-01T14:00:00",
+    "WindSpeed": 7.2,
+    "PowerOutput": 240
+  },
+  {
+    "Timestamp": "2023-01-01T15:00:00",
+    "WindSpeed": 9.6,
+    "PowerOutput": 460
+  },
+  {
+    "Timestamp": "2023-01-01T16:00:00",
+    "WindSpeed": 7.9,
+    "PowerOutput": 290
+  },
+  {
+    "Timestamp": "2023-01-01T17:00:00",
+    "WindSpeed": 10.3,
+    "PowerOutput": 530
+  },
+  {
+    "Timestamp": "2023-01-01T18:00:00",
+    "WindSpeed": 8.4,
+    "PowerOutput": 340
+  },
+  {
+    "Timestamp": "2023-01-01T19:00:00",
+    "WindSpeed": 6.9,
+    "PowerOutput": 220
+  },
+  {
+    "Timestamp": "2023-01-01T20:00:00",
+    "WindSpeed": 11.2,
+    "PowerOutput": 590
+  },
+  {
+    "Timestamp": "2023-01-01T21:00:00",
+    "WindSpeed": 9.3,
+    "PowerOutput": 430
+  },
+  {
+    "Timestamp": "2023-01-01T22:00:00",
+    "WindSpeed": 8.6,
+    "PowerOutput": 380
+  },
+  {
+    "Timestamp": "2023-01-01T23:00:00",
+    "WindSpeed": 10.7,
+    "PowerOutput": 570
+  },
+  {
+    "Timestamp": "2023-01-02T00:00:00",
+    "WindSpeed": 10.0,
+    "PowerOutput": 500
+  },
+  {
+    "Timestamp": "2023-01-02T01:00:00",
+    "WindSpeed": 8.8,
+    "PowerOutput": 410
+  },
+  {
+    "Timestamp": "2023-01-02T02:00:00",
+    "WindSpeed": 9.9,
+    "PowerOutput": 480
+  },
+  {
+    "Timestamp": "2023-01-02T03:00:00",
+    "WindSpeed": 7.7,
+    "PowerOutput": 270
+  },
+  {
+    "Timestamp": "2023-01-02T04:00:00",
+    "WindSpeed": 11.1,
+    "PowerOutput": 580
+  },
+  {
+    "Timestamp": "2023-01-02T05:00:00",
+    "WindSpeed": 9.8,
+    "PowerOutput": 470
+  },
+  {
+    "Timestamp": "2023-01-02T06:00:00",
+    "WindSpeed": 6.3,
+    "PowerOutput": 190
+  },
+  {
+    "Timestamp": "2023-01-02T07:00:00",
+    "WindSpeed": 5.5,
+    "PowerOutput": 160
+  },
+  {
+    "Timestamp": "2023-01-02T08:00:00",
+    "WindSpeed": 12.3,
+    "PowerOutput": 720
+  },
+  {
+    "Timestamp": "2023-01-02T09:00:00",
+    "WindSpeed": 8.5,
+    "PowerOutput": 370
+  },
+  {
+    "Timestamp": "2023-01-02T10:00:00",
+    "WindSpeed": 9.1,
+    "PowerOutput": 410
+  },
+  {
+    "Timestamp": "2023-01-02T11:00:00",
+    "WindSpeed": 10.8,
+    "PowerOutput": 580
+  },
+  {
+    "Timestamp": "2023-01-02T12:00:00",
+    "WindSpeed": 11.6,
+    "PowerOutput": 610
+  },
+  {
+    "Timestamp": "2023-01-02T13:00:00",
+    "WindSpeed": 8.0,
+    "PowerOutput": 300
+  },
+  {
+    "Timestamp": "2023-01-02T14:00:00",
+    "WindSpeed": 7.5,
+    "PowerOutput": 260
+  },
+  {
+    "Timestamp": "2023-01-02T15:00:00",
+    "WindSpeed": 9.7,
+    "PowerOutput": 460
+  },
+  {
+    "Timestamp": "2023-01-02T16:00:00",
+    "WindSpeed": 8.3,
+    "PowerOutput": 350
+  },
+  {
+    "Timestamp": "2023-01-02T17:00:00",
+    "WindSpeed": 10.4,
+    "PowerOutput": 540
+  },
+  {
+    "Timestamp": "2023-01-02T18:00:00",
+    "WindSpeed": 8.1,
+    "PowerOutput": 320
+  },
+  {
+    "Timestamp": "2023-01-02T19:00:00",
+    "WindSpeed": 6.7,
+    "PowerOutput": 210
+  },
+  {
+    "Timestamp": "2023-01-02T20:00:00",
+    "WindSpeed": 11.0,
+    "PowerOutput": 560
+  },
+  {
+    "Timestamp": "2023-01-02T21:00:00",
+    "WindSpeed": 9.0,
+    "PowerOutput": 400
+  },
+  {
+    "Timestamp": "2023-01-02T22:00:00",
+    "WindSpeed": 8.9,
+    "PowerOutput": 390
+  },
+  {
+    "Timestamp": "2023-01-02T23:00:00",
+    "WindSpeed": 10.6,
+    "PowerOutput": 550
+  },
+  {
+    "Timestamp": "2023-01-03T00:00:00",
+    "WindSpeed": 9.8,
+    "PowerOutput": 490
+  }
+ ]
+}
